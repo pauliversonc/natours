@@ -6,7 +6,7 @@ This is the official website for Natours, a fictional company that provides adve
 
 ## Disclaimer
 
-This Natours project was built using **HTML**, **CSS**, **Sass**, and **JavaScript** during my bootcamp on Udemy to know more about advance CSS and CSS Pre-processor.
+This Natours project was built using **HTML**, **CSS**, **Sass**, and **JavaScript** during my bootcamp on Udemy to know more about advance CSS and CSS preprocessor.
 
 Our instructor, **Jonas Schmedtmann**, designed the user interface for this project. He deserves full credit for the UI design. 
 The primary objective of this project was to enhance my proficiency in Sass, utilizing the 7-1 Sass Pattern, and to implement responsive web design techniques.
