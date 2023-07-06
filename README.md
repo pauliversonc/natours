@@ -26,10 +26,10 @@ The primary objective of this project was to enhance my proficiency in Sass, uti
 
 The Natours website includes the following features:
 
-- Responsive design: The website is fully responsive and adapts to different screen sizes, including mobile, tablet, and desktop.
-- Modern and engaging UI: The UI design incorporates modern design principles to provide an immersive and visually appealing experience to the users.
-- Interactive animations: The website features smooth animations and transitions to enhance the user experience.
-- Cross-browser compatibility: The website is tested and optimized to work on all major web browsers, including Chrome, Firefox, Safari, and Edge.
+- **Responsive design**: The website is fully responsive and adapts to different screen sizes, including mobile, tablet, and desktop.
+- **Modern and engaging UI**: The UI design incorporates modern design principles to provide an immersive and visually appealing experience to the users.
+- **Interactive animations**: The website features smooth animations and transitions to enhance the user experience.
+- **Cross-browser compatibility**: The website is tested and optimized to work on all major web browsers, including Chrome, Firefox, Safari, and Edge.
 
 ## Design Approach
 
