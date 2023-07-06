@@ -21,5 +21,13 @@
     "npm-run-all": "^4.1.5",
     "parcel": "^2.9.3",
     "postcss-cli": "^10.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauliversonc/natours.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pauliversonc/natours/issues"
+  },
+  "homepage": "https://github.com/pauliversonc/natours#readme"
 }
